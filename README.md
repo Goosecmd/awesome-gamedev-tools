@@ -1,5 +1,5 @@
 # awesome-gamedev-tools
-Simply a college project, but a collection of 10 Game Development Tools, _mainly game engines_ as uncommon as I could get :]
+6/10 are Game Engines, the other 4/10 are tools for various things. This is not a list of everything _I_ use, however these sound appealing enough to me that I probably would at least try them out :]
 
 # | Found on Github |
 ## 1. Shaderc
