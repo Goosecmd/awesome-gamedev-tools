@@ -1,6 +1,8 @@
 # Game Development Careers
 A few options job wise that are in the game industry
 
+
+
 ## Game Programming
 Kind of an obvious one, but involves coding and programming everything else that is made, i.e. models, so they can work/function in the game properly
 
@@ -24,6 +26,8 @@ Gets the product(game) out, and gets it to be known and seen
 
 # Major Branches of Programming
 Specific branches/sections/areas of game programming
+
+
 
 ## AI programming
 Making AI for a game, which could be with pathing of enemies, how they respond to certain actions and/or dangers, i.e. trying to get to the player, but avoiding traps
